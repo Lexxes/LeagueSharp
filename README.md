@@ -4,4 +4,4 @@ This Code/Software is Published under the [The Code Project Open License (CPOL) 
 
 The Code or parts of it, are not allowed to be published, republished or modified without the Author's consent.
 
-# All content are DMCA Protected
+# Copyright 2015 Andreas Friedl (Lexxes)
